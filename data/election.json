@@ -1,0 +1,3015 @@
+{
+  "AK": {
+    "fillKey": "gop",
+    "TotalVoteCount": 246588,
+    "StateName": "Alaska",
+    "PrecinctsReporting": 440,
+    "TotalPrecincts": 442,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "Alaska",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "130,415",
+        "VotePercentage": "52.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "93,007",
+        "VotePercentage": "37.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "14,593",
+        "VotePercentage": "5.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "4,445",
+        "VotePercentage": "1.8%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "4,128",
+        "VotePercentage": "1.7%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "AL": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2078165,
+    "StateName": "Alabama",
+    "PrecinctsReporting": 2522,
+    "TotalPrecincts": 2522,
+    "PrecinctsPercentage": "100%",
+    "Electors": 9,
+    "OfficeId": "P",
+    "County": "Alabama",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,306,925",
+        "VotePercentage": "62.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "718,084",
+        "VotePercentage": "34.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "43,869",
+        "VotePercentage": "2.1%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "9,287",
+        "VotePercentage": "0.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "AR": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1108615,
+    "StateName": "Arkansas",
+    "PrecinctsReporting": 2534,
+    "TotalPrecincts": 2534,
+    "PrecinctsPercentage": "100%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Arkansas",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "677,904",
+        "VotePercentage": "61.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "378,729",
+        "VotePercentage": "34.2%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "29,518",
+        "VotePercentage": "2.7%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "12,627",
+        "VotePercentage": "1.1%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "9,837",
+        "VotePercentage": "0.9%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "AZ": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2062810,
+    "StateName": "Arizona",
+    "PrecinctsReporting": 1469,
+    "TotalPrecincts": 1469,
+    "PrecinctsPercentage": "100%",
+    "Electors": 11,
+    "OfficeId": "P",
+    "County": "Arizona",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,021,154",
+        "VotePercentage": "49.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "936,250",
+        "VotePercentage": "45.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "80,151",
+        "VotePercentage": "3.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "25,255",
+        "VotePercentage": "1.2%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "CA": {
+    "fillKey": "dem",
+    "TotalVoteCount": 11954317,
+    "StateName": "California",
+    "PrecinctsReporting": 24849,
+    "TotalPrecincts": 24849,
+    "PrecinctsPercentage": "100%",
+    "Electors": 55,
+    "OfficeId": "P",
+    "County": "California",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "7,362,490",
+        "VotePercentage": "61.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "3,916,209",
+        "VotePercentage": "32.8%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "402,406",
+        "VotePercentage": "3.4%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "220,312",
+        "VotePercentage": "1.8%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "52,900",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "CO": {
+    "fillKey": "dem",
+    "TotalVoteCount": 2564185,
+    "StateName": "Colorado",
+    "PrecinctsReporting": 3040,
+    "TotalPrecincts": 3040,
+    "PrecinctsPercentage": "100%",
+    "Electors": 9,
+    "OfficeId": "P",
+    "County": "Colorado",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,212,209",
+        "VotePercentage": "47.3%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,137,455",
+        "VotePercentage": "44.4%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "129,451",
+        "VotePercentage": "5%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "33,147",
+        "VotePercentage": "1.3%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": null,
+        "PartyId": "UNA",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "26,779",
+        "VotePercentage": "1%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "25,144",
+        "VotePercentage": "1%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "CT": {
+    "fillKey": "dem",
+    "TotalVoteCount": 1623542,
+    "StateName": "Connecticut",
+    "PrecinctsReporting": 700,
+    "TotalPrecincts": 701,
+    "PrecinctsPercentage": "100%",
+    "Electors": 7,
+    "OfficeId": "P",
+    "County": "Connecticut",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "884,432",
+        "VotePercentage": "54.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "668,266",
+        "VotePercentage": "41.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "48,051",
+        "VotePercentage": "3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "22,793",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "DC": {
+    "fillKey": "dem",
+    "TotalVoteCount": 280272,
+    "StateName": "District of Columbia",
+    "PrecinctsReporting": 143,
+    "TotalPrecincts": 143,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "District of Columbia",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "260,223",
+        "VotePercentage": "92.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "11,553",
+        "VotePercentage": "4.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "4,501",
+        "VotePercentage": "1.6%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "DCG",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "3,995",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "DE": {
+    "fillKey": "dem",
+    "TotalVoteCount": 441535,
+    "StateName": "Delaware",
+    "PrecinctsReporting": 429,
+    "TotalPrecincts": 429,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "Delaware",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "235,581",
+        "VotePercentage": "53.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "185,103",
+        "VotePercentage": "41.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "14,751",
+        "VotePercentage": "3.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "6,100",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "FL": {
+    "fillKey": "gop",
+    "TotalVoteCount": 9386750,
+    "StateName": "Florida",
+    "PrecinctsReporting": 6027,
+    "TotalPrecincts": 6027,
+    "PrecinctsPercentage": "100%",
+    "Electors": 29,
+    "OfficeId": "P",
+    "County": "Florida",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "4,605,515",
+        "VotePercentage": "49.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "4,485,745",
+        "VotePercentage": "47.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "206,007",
+        "VotePercentage": "2.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "64,019",
+        "VotePercentage": "0.7%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "25,464",
+        "VotePercentage": "0.3%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "GA": {
+    "fillKey": "gop",
+    "TotalVoteCount": 4029564,
+    "StateName": "Georgia",
+    "PrecinctsReporting": 2702,
+    "TotalPrecincts": 2702,
+    "PrecinctsPercentage": "100%",
+    "Electors": 16,
+    "OfficeId": "P",
+    "County": "Georgia",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "2,068,623",
+        "VotePercentage": "51.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "1,837,300",
+        "VotePercentage": "45.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "123,641",
+        "VotePercentage": "3.1%",
+        "PoliticianName": "Gary Johnson"
+      }
+    ]
+  },
+  "HI": {
+    "fillKey": "dem",
+    "TotalVoteCount": 428825,
+    "StateName": "Hawaii",
+    "PrecinctsReporting": 247,
+    "TotalPrecincts": 247,
+    "PrecinctsPercentage": "100%",
+    "Electors": 4,
+    "OfficeId": "P",
+    "County": "Hawaii",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "266,827",
+        "VotePercentage": "62.2%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "128,815",
+        "VotePercentage": "30%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "15,949",
+        "VotePercentage": "3.7%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "12,727",
+        "VotePercentage": "3%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "4,507",
+        "VotePercentage": "1.1%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "IA": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1542880,
+    "StateName": "Iowa",
+    "PrecinctsReporting": 1778,
+    "TotalPrecincts": 1779,
+    "PrecinctsPercentage": "100%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Iowa",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "798,923",
+        "VotePercentage": "51.8%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "650,790",
+        "VotePercentage": "42.2%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "57,322",
+        "VotePercentage": "3.7%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "12,459",
+        "VotePercentage": "0.8%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "PEC",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "12,267",
+        "VotePercentage": "0.8%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "11,119",
+        "VotePercentage": "0.7%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "ID": {
+    "fillKey": "gop",
+    "TotalVoteCount": 688235,
+    "StateName": "Idaho",
+    "PrecinctsReporting": 962,
+    "TotalPrecincts": 962,
+    "PrecinctsPercentage": "100%",
+    "Electors": 4,
+    "OfficeId": "P",
+    "County": "Idaho",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "407,199",
+        "VotePercentage": "59.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "189,677",
+        "VotePercentage": "27.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "46,538",
+        "VotePercentage": "6.8%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "28,256",
+        "VotePercentage": "4.1%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "8,464",
+        "VotePercentage": "1.2%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "8,101",
+        "VotePercentage": "1.2%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "IL": {
+    "fillKey": "dem",
+    "TotalVoteCount": 5374280,
+    "StateName": "Illinois",
+    "PrecinctsReporting": 9995,
+    "TotalPrecincts": 10088,
+    "PrecinctsPercentage": "99%",
+    "Electors": 20,
+    "OfficeId": "P",
+    "County": "Illinois",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "2,977,498",
+        "VotePercentage": "55.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "2,118,179",
+        "VotePercentage": "39.4%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "204,491",
+        "VotePercentage": "3.8%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "74,112",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "IN": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2722029,
+    "StateName": "Indiana",
+    "PrecinctsReporting": 5375,
+    "TotalPrecincts": 5375,
+    "PrecinctsPercentage": "100%",
+    "Electors": 11,
+    "OfficeId": "P",
+    "County": "Indiana",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,556,220",
+        "VotePercentage": "57.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "1,031,953",
+        "VotePercentage": "37.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "133,856",
+        "VotePercentage": "4.9%",
+        "PoliticianName": "Gary Johnson"
+      }
+    ]
+  },
+  "KS": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1147143,
+    "StateName": "Kansas",
+    "PrecinctsReporting": 3507,
+    "TotalPrecincts": 3508,
+    "PrecinctsPercentage": "100%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Kansas",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "656,009",
+        "VotePercentage": "57.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "414,788",
+        "VotePercentage": "36.2%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "53,648",
+        "VotePercentage": "4.7%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "22,698",
+        "VotePercentage": "2%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "KY": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1922218,
+    "StateName": "Kentucky",
+    "PrecinctsReporting": 3698,
+    "TotalPrecincts": 3698,
+    "PrecinctsPercentage": "100%",
+    "Electors": 8,
+    "OfficeId": "P",
+    "County": "Kentucky",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,202,942",
+        "VotePercentage": "62.6%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "628,834",
+        "VotePercentage": "32.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "53,749",
+        "VotePercentage": "2.8%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "22,780",
+        "VotePercentage": "1.2%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "13,913",
+        "VotePercentage": "0.7%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "LA": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2027731,
+    "StateName": "Louisiana",
+    "PrecinctsReporting": 3904,
+    "TotalPrecincts": 3904,
+    "PrecinctsPercentage": "100%",
+    "Electors": 8,
+    "OfficeId": "P",
+    "County": "Louisiana",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,178,004",
+        "VotePercentage": "58.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "779,535",
+        "VotePercentage": "38.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "37,950",
+        "VotePercentage": "1.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "14,018",
+        "VotePercentage": "0.7%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "9,678",
+        "VotePercentage": "0.5%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "8,546",
+        "VotePercentage": "0.4%",
+        "PoliticianName": "Evan McMullin"
+      }
+    ]
+  },
+  "MA": {
+    "fillKey": "dem",
+    "TotalVoteCount": 3231531,
+    "StateName": "Massachusetts",
+    "PrecinctsReporting": 2173,
+    "TotalPrecincts": 2173,
+    "PrecinctsPercentage": "100%",
+    "Electors": 11,
+    "OfficeId": "P",
+    "County": "Massachusetts",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,964,768",
+        "VotePercentage": "60.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,083,069",
+        "VotePercentage": "33.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "136,784",
+        "VotePercentage": "4.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "46,910",
+        "VotePercentage": "1.5%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "MD": {
+    "fillKey": "dem",
+    "TotalVoteCount": 2474543,
+    "StateName": "Maryland",
+    "PrecinctsReporting": 1987,
+    "TotalPrecincts": 1989,
+    "PrecinctsPercentage": "100%",
+    "Electors": 10,
+    "OfficeId": "P",
+    "County": "Maryland",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,497,951",
+        "VotePercentage": "60.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "873,646",
+        "VotePercentage": "35.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "71,107",
+        "VotePercentage": "2.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "31,839",
+        "VotePercentage": "1.3%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "ME": {
+    "fillKey": "dem",
+    "TotalVoteCount": 741550,
+    "StateName": "Maine",
+    "PrecinctsReporting": 589,
+    "TotalPrecincts": 589,
+    "PrecinctsPercentage": "100%",
+    "Electors": 4,
+    "OfficeId": "P",
+    "County": "Maine",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "354,873",
+        "VotePercentage": "47.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "334,838",
+        "VotePercentage": "45.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "37,764",
+        "VotePercentage": "5.1%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "14,075",
+        "VotePercentage": "1.9%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "MI": {
+    "fillKey": "gop",
+    "TotalVoteCount": 4790917,
+    "StateName": "Michigan",
+    "PrecinctsReporting": 4830,
+    "TotalPrecincts": 4830,
+    "PrecinctsPercentage": "100%",
+    "Electors": 16,
+    "OfficeId": "P",
+    "County": "Michigan",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "2,279,805",
+        "VotePercentage": "47.6%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "2,268,193",
+        "VotePercentage": "47.3%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "173,057",
+        "VotePercentage": "3.6%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "50,700",
+        "VotePercentage": "1.1%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "19,162",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "MN": {
+    "fillKey": "dem",
+    "TotalVoteCount": 2916404,
+    "StateName": "Minnesota",
+    "PrecinctsReporting": 4120,
+    "TotalPrecincts": 4120,
+    "PrecinctsPercentage": "100%",
+    "Electors": 10,
+    "OfficeId": "P",
+    "County": "Minnesota",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,366,676",
+        "VotePercentage": "46.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,322,891",
+        "VotePercentage": "45.4%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "112,944",
+        "VotePercentage": "3.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "INP",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "53,080",
+        "VotePercentage": "1.8%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "36,957",
+        "VotePercentage": "1.3%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "23,856",
+        "VotePercentage": "0.8%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "MO": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2775098,
+    "StateName": "Missouri",
+    "PrecinctsReporting": 3241,
+    "TotalPrecincts": 3242,
+    "PrecinctsPercentage": "100%",
+    "Electors": 10,
+    "OfficeId": "P",
+    "County": "Missouri",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,585,753",
+        "VotePercentage": "57.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "1,054,889",
+        "VotePercentage": "38%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "96,404",
+        "VotePercentage": "3.5%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "25,086",
+        "VotePercentage": "0.9%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "12,966",
+        "VotePercentage": "0.5%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "MS": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1162987,
+    "StateName": "Mississippi",
+    "PrecinctsReporting": 1811,
+    "TotalPrecincts": 1811,
+    "PrecinctsPercentage": "100%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Mississippi",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "678,457",
+        "VotePercentage": "58.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "462,001",
+        "VotePercentage": "39.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "13,789",
+        "VotePercentage": "1.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "5,160",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "3,580",
+        "VotePercentage": "0.3%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "MT": {
+    "fillKey": "gop",
+    "TotalVoteCount": 483574,
+    "StateName": "Montana",
+    "PrecinctsReporting": 686,
+    "TotalPrecincts": 686,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "Montana",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "274,120",
+        "VotePercentage": "56.7%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "174,521",
+        "VotePercentage": "36.1%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "27,264",
+        "VotePercentage": "5.6%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "7,669",
+        "VotePercentage": "1.6%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "NC": {
+    "fillKey": "gop",
+    "TotalVoteCount": 4629471,
+    "StateName": "North Carolina",
+    "PrecinctsReporting": 2704,
+    "TotalPrecincts": 2704,
+    "PrecinctsPercentage": "100%",
+    "Electors": 15,
+    "OfficeId": "P",
+    "County": "North Carolina",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "2,339,603",
+        "VotePercentage": "50.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "2,162,074",
+        "VotePercentage": "46.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "127,794",
+        "VotePercentage": "2.8%",
+        "PoliticianName": "Gary Johnson"
+      }
+    ]
+  },
+  "ND": {
+    "fillKey": "gop",
+    "TotalVoteCount": 336968,
+    "StateName": "North Dakota",
+    "PrecinctsReporting": 432,
+    "TotalPrecincts": 432,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "North Dakota",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "216,133",
+        "VotePercentage": "64.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "93,526",
+        "VotePercentage": "27.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "21,351",
+        "VotePercentage": "6.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "3,769",
+        "VotePercentage": "1.1%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "2,189",
+        "VotePercentage": "0.6%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "NE": {
+    "fillKey": "gop",
+    "TotalVoteCount": 805638,
+    "StateName": "Nebraska",
+    "PrecinctsReporting": 1418,
+    "TotalPrecincts": 1418,
+    "PrecinctsPercentage": "100%",
+    "Electors": 5,
+    "OfficeId": "P",
+    "County": "Nebraska",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "485,819",
+        "VotePercentage": "60.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "273,858",
+        "VotePercentage": "34%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "37,615",
+        "VotePercentage": "4.7%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "PEC",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "8,346",
+        "VotePercentage": "1%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "NH": {
+    "fillKey": "dem",
+    "TotalVoteCount": 731553,
+    "StateName": "New Hampshire",
+    "PrecinctsReporting": 300,
+    "TotalPrecincts": 300,
+    "PrecinctsPercentage": "100%",
+    "Electors": 4,
+    "OfficeId": "P",
+    "County": "New Hampshire",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "348,521",
+        "VotePercentage": "47.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "345,789",
+        "VotePercentage": "47.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "30,827",
+        "VotePercentage": "4.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "6,416",
+        "VotePercentage": "0.9%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "NJ": {
+    "fillKey": "dem",
+    "TotalVoteCount": 3674893,
+    "StateName": "New Jersey",
+    "PrecinctsReporting": 6322,
+    "TotalPrecincts": 6369,
+    "PrecinctsPercentage": "99%",
+    "Electors": 14,
+    "OfficeId": "P",
+    "County": "New Jersey",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "2,021,756",
+        "VotePercentage": "55%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,535,513",
+        "VotePercentage": "41.8%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "68,695",
+        "VotePercentage": "1.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "35,949",
+        "VotePercentage": "1%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "12,980",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "NM": {
+    "fillKey": "dem",
+    "TotalVoteCount": 783127,
+    "StateName": "New Mexico",
+    "PrecinctsReporting": 1492,
+    "TotalPrecincts": 1492,
+    "PrecinctsPercentage": "100%",
+    "Electors": 5,
+    "OfficeId": "P",
+    "County": "New Mexico",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "380,724",
+        "VotePercentage": "48.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "315,875",
+        "VotePercentage": "40.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "73,669",
+        "VotePercentage": "9.4%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "9,729",
+        "VotePercentage": "1.2%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "3,130",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "NV": {
+    "fillKey": "dem",
+    "TotalVoteCount": 1122990,
+    "StateName": "Nevada",
+    "PrecinctsReporting": 1853,
+    "TotalPrecincts": 1853,
+    "PrecinctsPercentage": "100%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Nevada",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "537,753",
+        "VotePercentage": "47.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "511,319",
+        "VotePercentage": "45.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "37,299",
+        "VotePercentage": "3.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "36,619",
+        "VotePercentage": "3.3%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "NY": {
+    "fillKey": "dem",
+    "TotalVoteCount": 7046175,
+    "StateName": "New York",
+    "PrecinctsReporting": 15005,
+    "TotalPrecincts": 15056,
+    "PrecinctsPercentage": "100%",
+    "Electors": 29,
+    "OfficeId": "P",
+    "County": "New York",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "4,143,874",
+        "VotePercentage": "58.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "2,640,570",
+        "VotePercentage": "37.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "161,836",
+        "VotePercentage": "2.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "99,895",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "OH": {
+    "fillKey": "gop",
+    "TotalVoteCount": 5325395,
+    "StateName": "Ohio",
+    "PrecinctsReporting": 8887,
+    "TotalPrecincts": 8887,
+    "PrecinctsPercentage": "100%",
+    "Electors": 18,
+    "OfficeId": "P",
+    "County": "Ohio",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "2,771,984",
+        "VotePercentage": "52.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "2,317,001",
+        "VotePercentage": "43.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "168,599",
+        "VotePercentage": "3.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "44,310",
+        "VotePercentage": "0.8%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "23,501",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "OK": {
+    "fillKey": "gop",
+    "TotalVoteCount": 1451056,
+    "StateName": "Oklahoma",
+    "PrecinctsReporting": 1956,
+    "TotalPrecincts": 1956,
+    "PrecinctsPercentage": "100%",
+    "Electors": 7,
+    "OfficeId": "P",
+    "County": "Oklahoma",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "947,934",
+        "VotePercentage": "65.3%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "419,788",
+        "VotePercentage": "28.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "83,334",
+        "VotePercentage": "5.7%",
+        "PoliticianName": "Gary Johnson"
+      }
+    ]
+  },
+  "OR": {
+    "fillKey": "dem",
+    "TotalVoteCount": 1808575,
+    "StateName": "Oregon",
+    "PrecinctsReporting": 1331,
+    "TotalPrecincts": 1343,
+    "PrecinctsPercentage": "99%",
+    "Electors": 7,
+    "OfficeId": "P",
+    "County": "Oregon",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "934,631",
+        "VotePercentage": "51.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "742,506",
+        "VotePercentage": "41.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "86,306",
+        "VotePercentage": "4.8%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": null,
+        "PartyId": "PAG",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "45,132",
+        "VotePercentage": "2.5%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "PA": {
+    "fillKey": "gop",
+    "TotalVoteCount": 5970107,
+    "StateName": "Pennsylvania",
+    "PrecinctsReporting": 9136,
+    "TotalPrecincts": 9158,
+    "PrecinctsPercentage": "100%",
+    "Electors": 20,
+    "OfficeId": "P",
+    "County": "Pennsylvania",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "2,912,941",
+        "VotePercentage": "48.8%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "2,844,705",
+        "VotePercentage": "47.6%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "142,653",
+        "VotePercentage": "2.4%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "48,912",
+        "VotePercentage": "0.8%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "20,896",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "RI": {
+    "fillKey": "dem",
+    "TotalVoteCount": 450121,
+    "StateName": "Rhode Island",
+    "PrecinctsReporting": 489,
+    "TotalPrecincts": 489,
+    "PrecinctsPercentage": "100%",
+    "Electors": 4,
+    "OfficeId": "P",
+    "County": "Rhode Island",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "249,902",
+        "VotePercentage": "55.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "179,421",
+        "VotePercentage": "39.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "14,643",
+        "VotePercentage": "3.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "6,155",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "SC": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2084444,
+    "StateName": "South Carolina",
+    "PrecinctsReporting": 2238,
+    "TotalPrecincts": 2238,
+    "PrecinctsPercentage": "100%",
+    "Electors": 9,
+    "OfficeId": "P",
+    "County": "South Carolina",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,143,611",
+        "VotePercentage": "54.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "849,469",
+        "VotePercentage": "40.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "48,715",
+        "VotePercentage": "2.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "INP",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "20,795",
+        "VotePercentage": "1%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "12,917",
+        "VotePercentage": "0.6%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "8,937",
+        "VotePercentage": "0.4%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "SD": {
+    "fillKey": "gop",
+    "TotalVoteCount": 370047,
+    "StateName": "South Dakota",
+    "PrecinctsReporting": 707,
+    "TotalPrecincts": 707,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "South Dakota",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "227,701",
+        "VotePercentage": "61.5%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "117,442",
+        "VotePercentage": "31.7%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "20,845",
+        "VotePercentage": "5.6%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "4,059",
+        "VotePercentage": "1.1%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "TN": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2484691,
+    "StateName": "Tennessee",
+    "PrecinctsReporting": 1980,
+    "TotalPrecincts": 1980,
+    "PrecinctsPercentage": "100%",
+    "Electors": 11,
+    "OfficeId": "P",
+    "County": "Tennessee",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,517,402",
+        "VotePercentage": "61.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "867,110",
+        "VotePercentage": "34.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "70,084",
+        "VotePercentage": "2.8%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "15,919",
+        "VotePercentage": "0.6%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "14,176",
+        "VotePercentage": "0.6%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "TX": {
+    "fillKey": "gop",
+    "TotalVoteCount": 8903237,
+    "StateName": "Texas",
+    "PrecinctsReporting": 8183,
+    "TotalPrecincts": 8186,
+    "PrecinctsPercentage": "100%",
+    "Electors": 38,
+    "OfficeId": "P",
+    "County": "Texas",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "4,681,590",
+        "VotePercentage": "52.6%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "3,867,816",
+        "VotePercentage": "43.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "282,524",
+        "VotePercentage": "3.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "71,307",
+        "VotePercentage": "0.8%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "UT": {
+    "fillKey": "gop",
+    "TotalVoteCount": 984957,
+    "StateName": "Utah",
+    "PrecinctsReporting": 2087,
+    "TotalPrecincts": 2214,
+    "PrecinctsPercentage": "94%",
+    "Electors": 6,
+    "OfficeId": "P",
+    "County": "Utah",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "452,086",
+        "VotePercentage": "45.9%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "274,188",
+        "VotePercentage": "27.8%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": null,
+        "PartyId": "UNA",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "207,288",
+        "VotePercentage": "21%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "33,142",
+        "VotePercentage": "3.4%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "10,558",
+        "VotePercentage": "1.1%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": null,
+        "PartyId": "UNA",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "7,695",
+        "VotePercentage": "0.8%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "VA": {
+    "fillKey": "dem",
+    "TotalVoteCount": 3844787,
+    "StateName": "Virginia",
+    "PrecinctsReporting": 2556,
+    "TotalPrecincts": 2559,
+    "PrecinctsPercentage": "100%",
+    "Electors": 13,
+    "OfficeId": "P",
+    "County": "Virginia",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,916,845",
+        "VotePercentage": "49.9%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,731,156",
+        "VotePercentage": "45%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "116,600",
+        "VotePercentage": "3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 9683,
+        "Winner": false,
+        "VoteCount": "52,914",
+        "VotePercentage": "1.4%",
+        "PoliticianName": "Evan McMullin"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "27,272",
+        "VotePercentage": "0.7%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  },
+  "VT": {
+    "fillKey": "dem",
+    "TotalVoteCount": 291413,
+    "StateName": "Vermont",
+    "PrecinctsReporting": 276,
+    "TotalPrecincts": 276,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "Vermont",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "178,179",
+        "VotePercentage": "61.1%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "95,053",
+        "VotePercentage": "32.6%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "10,047",
+        "VotePercentage": "3.4%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "6,748",
+        "VotePercentage": "2.3%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "1,386",
+        "VotePercentage": "0.5%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "WA": {
+    "fillKey": "dem",
+    "TotalVoteCount": 2957942,
+    "StateName": "Washington",
+    "PrecinctsReporting": 1825,
+    "TotalPrecincts": 2000,
+    "PrecinctsPercentage": "91%",
+    "Electors": 12,
+    "OfficeId": "P",
+    "County": "Washington",
+    "Candidates": [
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": true,
+        "VoteCount": "1,610,524",
+        "VotePercentage": "54.4%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": false,
+        "VoteCount": "1,129,120",
+        "VotePercentage": "38.2%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "144,599",
+        "VotePercentage": "4.9%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "51,066",
+        "VotePercentage": "1.7%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "22,633",
+        "VotePercentage": "0.8%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "WI": {
+    "fillKey": "gop",
+    "TotalVoteCount": 2937326,
+    "StateName": "Wisconsin",
+    "PrecinctsReporting": 3620,
+    "TotalPrecincts": 3620,
+    "PrecinctsPercentage": "100%",
+    "Electors": 10,
+    "OfficeId": "P",
+    "County": "Wisconsin",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "1,403,694",
+        "VotePercentage": "47.8%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "1,380,823",
+        "VotePercentage": "47%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "106,367",
+        "VotePercentage": "3.6%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "GRN",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "30,934",
+        "VotePercentage": "1.1%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "15,508",
+        "VotePercentage": "0.5%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "WV": {
+    "fillKey": "gop",
+    "TotalVoteCount": 708226,
+    "StateName": "West Virginia",
+    "PrecinctsReporting": 1754,
+    "TotalPrecincts": 1754,
+    "PrecinctsPercentage": "100%",
+    "Electors": 5,
+    "OfficeId": "P",
+    "County": "West Virginia",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "486,198",
+        "VotePercentage": "68.7%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "187,457",
+        "VotePercentage": "26.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "22,798",
+        "VotePercentage": "3.2%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "MNT",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "8,000",
+        "VotePercentage": "1.1%",
+        "PoliticianName": "Jill Stein"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "3,773",
+        "VotePercentage": "0.5%",
+        "PoliticianName": " Other"
+      }
+    ]
+  },
+  "WY": {
+    "fillKey": "gop",
+    "TotalVoteCount": 248742,
+    "StateName": "Wyoming",
+    "PrecinctsReporting": 482,
+    "TotalPrecincts": 482,
+    "PrecinctsPercentage": "100%",
+    "Electors": 3,
+    "OfficeId": "P",
+    "County": "Wyoming",
+    "Candidates": [
+      {
+        "PartyColor": "#c20816",
+        "PartyColorInProgress": "#f0c1c5",
+        "PartyId": "GOP",
+        "PoliticianId": 7442,
+        "Winner": true,
+        "VoteCount": "174,248",
+        "VotePercentage": "70.1%",
+        "PoliticianName": "Donald Trump"
+      },
+      {
+        "PartyColor": "#056eb2",
+        "PartyColorInProgress": "#c0dbec",
+        "PartyId": "DEM",
+        "PoliticianId": 7444,
+        "Winner": false,
+        "VoteCount": "55,949",
+        "VotePercentage": "22.5%",
+        "PoliticianName": "Hillary Clinton"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "LIB",
+        "PoliticianId": 1124,
+        "Winner": false,
+        "VoteCount": "13,285",
+        "VotePercentage": "5.3%",
+        "PoliticianName": "Gary Johnson"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#fef1dd",
+        "PartyId": "OTH",
+        "PoliticianId": 6586,
+        "Winner": false,
+        "VoteCount": "2,748",
+        "VotePercentage": "1.1%",
+        "PoliticianName": " Other"
+      },
+      {
+        "PartyColor": "#fcbc58",
+        "PartyColorInProgress": "#80B690",
+        "PartyId": "IND",
+        "PoliticianId": 5976,
+        "Winner": false,
+        "VoteCount": "2,512",
+        "VotePercentage": "1%",
+        "PoliticianName": "Jill Stein"
+      }
+    ]
+  }
+}
