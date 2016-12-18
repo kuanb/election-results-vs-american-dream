@@ -9,11 +9,13 @@
 </head>
 
 <script
-  src="https://code.jquery.com/jquery-1.12.4.min.js"
-  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-  crossorigin="anonymous"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.4.0/d3.min.js"></script>
-<script src="//d3js.org/topojson.v1.min.js"></script>
+  src='https://code.jquery.com/jquery-1.12.4.min.js'
+  integrity='sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ='
+  crossorigin='anonymous'></script>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
 
 <style>
   #map {
@@ -23,58 +25,116 @@
 </style>
 
 <body>
-  <div id="map"></div> 
+  <div id='map'></div> 
 </body>
 
 <script>
 
+// globals
+var election, mobility = {};
+
+var generateColor = function(val) {
+  // invert val
+  val = 100 - val;
+
+  // set defaults
+  var mid = 50;
+  var red, green, blue = 0;
+
+  // green to yellow
+  if (val <= mid) {
+    red = Math.floor(255 * (val / mid));
+    green = 255;
+
+  // yellow to red
+  } else {
+    red = 255;
+    if (val < 51) val = 51;
+    green = Math.floor(255 * ((mid - (val-1) % mid) / mid));
+  }
+
+  return `rgb(${red}, ${green}, ${blue})`;
+};
+
 $.getJSON('./data/election.json')
-  .then(function (election) {
-    console.log(election);
-  })
+  .then(function (response) {
+    election = response;
 
-$.get('./data/mobility.csv')
-  .then(function (mobility) {
-    var states = {};
-    mobility = mobility.split('\n');
-    mobility.forEach(function (ea) {
-      var row = ea.split(',');
-      var state = row[1];
-      var year = row[2];
-      var mean = row[3];
-      
-      if (!states.hasOwnProperty(state)) {
-        states[state] = {year: {}};
+    return $.get('./data/mobility.csv');
+  }).then(function (response) {
+    response.split('\n')
+      .forEach(function (ea) {
+        var row = ea.split(',');
+        var state = row[1];
+        var year = row[2];
+        var mean = row[3];
+        
+        if (!mobility.hasOwnProperty(state)) {
+          mobility[state] = {year: {}};
+        }
+
+        // update the globals mobility object
+        mobility[state]['year'][year] = Number(mean);
+      });
+
+    // drop the title row if it slips in
+    delete mobility['state_name'];
+
+    var allPctDecreases = [];
+    for (state in mobility) {
+      console.log('e', state, mobility[state])
+      var a = mobility[state]['year']['1940'];
+      var b = mobility[state]['year']['1980'];
+      var pctDecrease = ((b - a)/a);
+      var a = mobility[state].change = pctDecrease;
+      allPctDecreases.push(pctDecrease);
+    }
+    console.log(allPctDecreases)
+
+  d3.json('./data/states.json', function(error, topology) {
+    if (error) throw error;
+
+    var geoms = topology.objects.units.geometries;
+    geoms = geoms.map(function (state) {
+      var name = state.properties.name;
+      for (s in election) {
+        if (election[s].StateName == name) {
+          state.properties = election[s];
+          state.properties.mobility = mobility[s];
+        }
       }
-
-      states[state]['year'][year] = Number(mean);
+      return state;
     });
+    topology.objects.units.geometries = geoms;
 
-    drawMap(states)
-  })
-
-function drawMap (states) {
-  var width  = 1000,  
-      height = 800,
-  svg = d3.select("#map").append("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  var center = [39.50, -98.35];
-  var projection = d3.geoConicConformal()  
-    .center(center)
-    .clipAngle(180)
-    .scale(10000)
-    .translate([width / 2, height / 2])
-    .precision(.1);
-
-  var path = d3.geoPath().projection(projection);
-  
-  d3.json("./data/states.json", function(err, data) {  
-    svg.append("path")
-      .datum(topojson.feature(data, data.objects.units))
-      .attr("d", d3.geoPath().projection(d3.geoMercator()));
+    drawMap(topology)
   });
+});
+
+function drawMap (topology) {
+  var width  = 9000,  
+      height = 700,
+
+  svg = d3.select('#map').append('svg')
+    .attr('width', width)
+    .attr('height', height);
+
+  var projection = d3.geoAlbersUsa();
+  var geoPath =    d3.geoPath().projection(projection);
+  var scale = d3.scaleLinear()
+    .domain([0, 1])
+    .range(d3.schemeOrRd[9]);
+
+  svg.append('g')
+    .selectAll('path')
+    .data(topojson.feature(topology, topology.objects.units).features)
+    .enter().append("path")
+      .attr('fill', function (ea) {
+        return d3.interpolateReds(-ea.properties.mobility.change);
+      })
+      .attr('stroke', '#888')
+      .attr('stroke-opacity', 0.5)
+      .attr('d', geoPath);
 }  
 
 </script>
